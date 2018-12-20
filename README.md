@@ -10,3 +10,6 @@ Com16
 
 # Instructions
 You need just to run main.py file. All functionalities are already included there.
+
+# Report
+Report is available in /report/project_report.docx
